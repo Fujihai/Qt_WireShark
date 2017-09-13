@@ -1,12 +1,17 @@
 # Qt_WireShark
-基于Linux Qt的简易版WireShark
 
-#-------------------------
+Introduction
+----------------
 
-1. 使用多线程来捕获数据包
+A simple WireShark based on Linux Qt development
 
-2. 实现了TCP、UDP、ICMP、IGMP协议报头数据的解析
 
-#-------------------------
+-------------------------
+
+1. Use multi-thread to capture network package
+
+2. Analyzed TCP、UDP、ICMP、IGMP protocol header data
+
+-------------------------
 
 ![qt_wireshark.gif](https://github.com/liufushihai/Qt_WireShark/blob/master/qt_wireshark.gif)
