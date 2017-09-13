@@ -3,7 +3,7 @@
 Introduction
 ----------------
 
-A simple WireShark based on Linux Qt development.
+A simple WireShark based on Linux Qt.
 
 Use multi-thread to capture network package.
 
