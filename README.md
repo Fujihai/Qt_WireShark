@@ -3,13 +3,14 @@
 Introduction
 ----------------
 
-A simple WireShark based on Linux Qt.
+A simple WireShark based on Linux Qt.  [中文版](https://github.com/liufushihai/Qt_WireShark/blob/master/README-zh.md)
 
-Use multi-thread to capture network package.
+## Features
 
-Analyzed TCP、UDP、ICMP、IGMP protocol header data.
+* Use multi-thread to capture network package.
+* Analyzed TCP、UDP、ICMP、IGMP protocol header data.
 
 
-Effect:
+Effect
 ----------------
 ![qt_wireshark.gif](https://github.com/liufushihai/Qt_WireShark/blob/master/qt_wireshark.gif)
